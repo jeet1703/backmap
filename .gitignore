@@ -1,0 +1,38 @@
+# Python bytecode
+__pycache__/
+
+uploaded_videos/
+uploaded_videos
+env/
+
+# Flask specific
+instance/
+.env
+.venv/
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+
+# IDE and Editor specific files
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*.cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MySQL
+*.sql
+
